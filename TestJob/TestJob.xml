@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestJob</name>
+    </assembly>
+    <members>
+        <member name="M:TestJob.Controllers.CountryController.AddToCollection(TestJob.Models.Dto.CountryDto)">
+            <summary>
+            Добавить страну
+            </summary>
+            <returns>Id добавленной страны</returns>
+        </member>
+    </members>
+</doc>
